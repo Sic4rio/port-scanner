@@ -1,6 +1,10 @@
 # port-scanner
 Light weight bash port scanner 
 
+<p align="center">
+  <img src="https://github.com/Sic4rio/port-scanner/blob/main/Screenshot%20from%202023-05-21%2022-45-30.png?raw=true" width="600" height="400" />
+</p>
+
 Usage:
 ```
 chmod +x ./script.sh
